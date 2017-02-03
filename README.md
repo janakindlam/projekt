@@ -1,6 +1,6 @@
-# Projekt: kalkulaator
+# Projekt: Kalkulaator
 
 
-## Authors
+## Autor:
 
 Jana Kindlam; eeskujuks: Jakov Fain "Java programming for kids, parents and grandparents". 
